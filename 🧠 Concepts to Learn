@@ -1,0 +1,10 @@
+#🧠 Concepts to Learn 
+
+
+*REST API:                       requests.get/post()
+*JSON parsing:                   response.json()
+*Price history:                  pandas.DataFrame()
+*Strategy logic:                 TA indicators (SMA, EMA, RSI)
+*Order execution:                signed POST request with headers
+*Logging:                        logging or file-based
+*Scheduling:                     time.sleep(), schedule
