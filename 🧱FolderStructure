@@ -1,0 +1,14 @@
+🧱 Python Bot Folder Structure
+
+trading-bot/
+├── main.py
+├── api/
+│   └── binance_api.py
+├── strategies/
+│   └── sma_strategy.py
+├── config/
+│   └── .env
+├── logs/
+│   └── trades.log
+├── requirements.txt
+├── README.md
