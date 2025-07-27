@@ -1,0 +1,10 @@
+## 📦 Python Packages You’ll Use
+ 
+| 📦 Package                  | 🧩 Purpose                                       |
+|-----------------------------|---------------------------------------------------|
+| `requests`                  | REST API calls                                    |
+| `websocket-client`          | Live data (optional)                              |
+| `pandas`                    | Handle price data                                 |
+| `ta-lib`                    | Technical indicators (RSI, SMA, EMA)              |
+| `dotenv`                    | Store API keys securely                           |
+| `time`, `json`, `logging`   | Standard utilities from Python’s standard library |
