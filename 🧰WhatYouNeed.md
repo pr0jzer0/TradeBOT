@@ -1,8 +1,10 @@
-# 🧰 What You Need (Python Version)
-#🔧 Tools
-Tool	                                             Use
-Python 3.x                                        Core language
-pip                                               Install packages
-VSCode or PyCharm                                 IDE
-virtualenv                                        Optional: manage packages
-GitHub                                            Version control & sharing
+## 🧰 What You Need (Python Version)
+
+| 🔧 Tool            | 🛠️ Use                                  |
+|---------------------------------------------------------------|
+| Python 3.x          | Core programming language               |
+| pip                 | Install Python packages                 |
+| VSCode / PyCharm    | IDE for writing and managing code       |
+| virtualenv          | (Optional) Create isolated environments |
+| GitHub              | Version control & sharing projects      |
+
